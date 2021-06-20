@@ -5,8 +5,8 @@ var colors = [
     'white',
     ___
   ];
-  drawBox(colors[0]); // str
-  drawBox(colors[1]);
+  drawBox(colors[0]); // busca o valor 'black'
+  drawBox(colors[1]); // busca o valor 'white'
   drawBox(colors[0]);
   newLine();
   drawBox(colors[1]);
