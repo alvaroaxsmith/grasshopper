@@ -1,4 +1,4 @@
-// Neste desafio, você usará mais operadores como o operador maior que >, o operador menor que < e o operador ou ||.
+// Neste desafio, foi usado mais operadores como o operador maior que >, o operador menor que < e o operador ou ||.
 
 print('x is ' + x);
 print('y is ' + y);
