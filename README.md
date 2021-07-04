@@ -6,5 +6,5 @@
 5. [Operadores](https://github.com/alvaroaxsmith/Grasshopper-Fundamentos/tree/main/Operadores)
 6. [Laços](https://github.com/alvaroaxsmith/Grasshopper-Fundamentos/tree/main/La%C3%A7os)
 7. [Laços II](https://github.com/alvaroaxsmith/Grasshopper-Fundamentos/tree/main/La%C3%A7os%20II)
-8. [Expressões de objeto]()
+8. [Expressões de objeto](https://github.com/alvaroaxsmith/Grasshopper-Fundamentos/tree/main/Express%C3%B5es-de-objeto)
 9. [Escale a montanha]()
