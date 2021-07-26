@@ -10,8 +10,8 @@
 9. [Escale a montanha](https://github.com/alvaroaxsmith/Grasshopper/tree/main/Fundamentos/Escale-a-montanha)
 
 # Fundamentos II
-1. [Manipulação de strings]()
-2. [Opções alternativas]()
-3. [Funções]()
+1. [Manipulação de strings](https://github.com/alvaroaxsmith/Grasshopper/tree/main/Fundamentos%20II/Manipula%C3%A7%C3%A3o%20de%20Strings)
+2. [Opções alternativas](https://github.com/alvaroaxsmith/Grasshopper/tree/main/Fundamentos%20II/Op%C3%A7%C3%B5es%20Alternativas)
+3. [Funções](https://github.com/alvaroaxsmith/Grasshopper/tree/main/Fundamentos%20II/Fun%C3%A7%C3%B5es)
 4. [Manipulação de array]()
 5. [Procura por hotéis]()
