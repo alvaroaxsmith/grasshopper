@@ -1,13 +1,18 @@
-# Operadores aritméticos
-### Operadores aritméticos permitem que você faça matemática enquanto codifica. Você pode usar +, -, /, * para adicionar, subtrair, dividir e multiplicar números.
-
+# Laço for
+### Um loop, ou um laço, repete uma parte do código entre os colchetes {}. Em Javascript, um laço for...of percorre cada elemento em uma array ou string, repetindo o código para cada elemento.
 #
 
 ### <strong>CÓDIGO DE EXEMPLO</strong>
 ```javascript
-var wackyArithmetic = 5 * 5 / 5 - 5 + 5;
-var fullName = 'Johnny' + ' Appleseed';
-/* O resultado de wackyArithmetic é 5. O operador + pode combinar strings, então o resultado de fullName é 'Johnny Appleseed'. */
+var groceries = [
+    'apples',
+    'yogurt',
+    'toothtpaste'
+];
+for (var element of groceries) {
+    console.log(element);
+}
+/* Cada item na array groceries será impresso em sua própria linha*/
 ```
 # Operadores lógicos
 ### Operadores lógicos permitem combinar os operadores de comparação (===, !, ==, <, >) juntos. Um exemplo de operador lógico é o operador 'e' (&&). Se uma if statement for usada, requer que ambas as verificações de comparação sejam verdadeiras.
