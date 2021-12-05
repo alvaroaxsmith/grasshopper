@@ -1,4 +1,4 @@
-// O desafio era usar a função drawBox() para adicionar 3 novas caixas: azul, branco e vermelho, para desenhar a bandeira da França.
+// O desafio foi usar a função drawBox() para adicionar 3 novas caixas: azul, branco e vermelho, para desenhar a bandeira da França.
 
 drawBox(blue);
 drawBox(white);
