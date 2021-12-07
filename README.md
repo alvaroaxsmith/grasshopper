@@ -13,5 +13,5 @@
 1. [Manipulação de strings](https://github.com/alvaroaxsmith/Grasshopper/tree/main/fundamentos-II/manipulacao-de-strings)
 2. [Opções alternativas](https://github.com/alvaroaxsmith/Grasshopper/tree/main/fundamentos-II/opcoes-alternativas)
 3. [Funções](https://github.com/alvaroaxsmith/Grasshopper/tree/main/fundamentos-II/funcoes)
-4. [Manipulação de array]()
-5. [Procura por hotéis]()
+4. [Manipulação de array](https://github.com/alvaroaxsmith/Grasshopper/tree/main/fundamentos-II/manipulacao-de-array)
+5. [Procura por hotéis](https://github.com/alvaroaxsmith/Grasshopper/tree/main/fundamentos-II/procura-por-hoteis)
